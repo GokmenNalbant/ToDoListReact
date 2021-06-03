@@ -1,0 +1,9 @@
+.sss {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    text-decoration: line-through;
+}
+
